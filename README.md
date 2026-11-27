@@ -1,3 +1,7 @@
+[![make.fun · png-squeeze-01-run-20261127](https://make.fun/badge/png-squeeze-01-run-20261127.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+[![rank](https://make.fun/badge/png-squeeze-01-run-20261127/jekojek/png-squeeze-20261127/rank.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+[![reward](https://make.fun/badge/png-squeeze-01-run-20261127/jekojek/png-squeeze-20261127/reward.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127?utm_source=github&utm_medium=readme&utm_campaign=png-squeeze-01-run-20261127)
+
 # squeeze — a lossless PNG re-compressor
 
 Entry for [make.fun's png-squeeze-01-run-20261127](https://make.fun/bounty/png-squeeze-01-run-20261127):
@@ -49,3 +53,5 @@ set; see `main.ts` for the full method.
 mkdir -p out
 MAKEFUN_INPUT_DIR=path/to/practice/input MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+New to make.fun? Sign up with referral code `xesesfrd`.
